@@ -11,6 +11,9 @@ SITEURL = 'https://haissamkaj.com'
 FAVICON = SITEURL + '/favicon.ico'
 SITELOGO = SITEURL + '/profile.png'
 
+# Analytics
+PIWIK_URL = ''
+PIWIK_SITE_ID = '' 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
