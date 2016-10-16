@@ -91,3 +91,6 @@ ENV/
 # Pelican generated site & themes
 output/*
 themes/*
+
+# Piwik
+piwik/*
